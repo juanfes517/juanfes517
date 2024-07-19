@@ -1,4 +1,10 @@
-## Hi there 👋
+## <p>Hi, 👋 I'm Felipe <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+> Full Stack developer in training
+
+
+### **About me...** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB6bDU3c3BuNDQydHN1Z2s1MnI2Y2JkMjgxZ2NkNXo3Yzljdjl5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LCo3JuJ8ca3XXJQqlM/giphy.webp" width="30"> 
+I'm Juan Felipe Escobar, a systems engineering student at the University of Antioquia with a passion for software development, problem solving and learning new things.
+
 
 <!--
 **juanfes517/juanfes517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
